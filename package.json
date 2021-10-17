@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@doodaswap-libs/dooda-swap-core": "^0.1.1",
+    "@doodaswap-libs/dooda-swap-core": "^0.1.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
